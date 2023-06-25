@@ -1,0 +1,22 @@
+Preguntas
+
+¿Quién inventó el sistema de control de versión Git y por qué?
+
+El sistema de control de versiones Git fue creado por Linus Torvalds en 2005. Linus es conocido principalmente por ser el creador del kernel de Linux.
+
+La motivación detrás de la creación de Git surgió de la necesidad de gestionar el desarrollo del kernel de Linux, que requería un sistema de control de versiones altamente eficiente y flexible. En ese momento, los sistemas de control de versiones existentes no cumplían con los requisitos específicos del proyecto del kernel de Linux, lo que llevó a Linus a desarrollar su propia solución.
+
+Linus diseñó Git con un enfoque distribuido, lo que significa que cada usuario tiene una copia completa del repositorio en su máquina local. Esto proporciona una mayor flexibilidad y capacidad de colaboración, ya que los desarrolladores pueden trabajar de manera independiente en sus propias ramas y fusionar los cambios posteriormente.
+
+¿A quién pertenece actualmente Github y porque?
+
+Actualmente, GitHub pertenece a Microsoft Corporation. Microsoft adquirió GitHub en junio de 2018 por un valor de aproximadamente 7.5 mil millones de dólares.
+
+La adquisición de GitHub por parte de Microsoft fue motivada por varias razones estratégicas. En primer lugar, GitHub era y sigue siendo una de las plataformas más populares para alojar y colaborar en proyectos de desarrollo de software de código abierto. Microsoft, bajo la dirección de su CEO Satya Nadella, ha adoptado una postura más abierta y ha mostrado un mayor interés en el mundo del código abierto. La adquisición de GitHub fue vista como una forma de fortalecer su participación en la comunidad de código abierto y mejorar su relación con los desarrolladores. Además, la adquisición de GitHub también permitió a Microsoft ampliar su presencia en el mercado de desarrollo de software y servicios en la nube.
+
+¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+1. Interfaz web de GitHub
+2. Aplicaciones de escritorio
+3. Clientes Git con interfaz gráfica
+
